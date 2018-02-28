@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41278" started-at="2018-02-27T06:52:53Z" finished-at="2018-02-27T06:53:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41278" started-at="2018-02-27T06:52:53Z" finished-at="2018-02-27T06:53:34Z">
+      <class name="testCases.CLeadTC_001">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testCases.CLeadTC_001@1dc339b]" name="beforeSuite" is-config="true" duration-ms="203" started-at="2018-02-27T06:52:53Z" finished-at="2018-02-27T06:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="createLead()[pri:0, instance:testCases.CLeadTC_001@1dc339b]" name="createLead" is-config="true" duration-ms="0" started-at="2018-02-27T06:52:53Z" finished-at="2018-02-27T06:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.CLeadTC_001@1dc339b]" name="beforeMethod" is-config="true" duration-ms="7960" started-at="2018-02-27T06:52:55Z" finished-at="2018-02-27T06:53:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="doCreateLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.CLeadTC_001@1dc339b]" name="doCreateLead" duration-ms="10777" started-at="2018-02-27T06:53:03Z" data-provider="fetchData" finished-at="2018-02-27T06:53:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sarnya]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[V]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[DTCC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doCreateLead -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.CLeadTC_001@1dc339b]" name="afterMethod" is-config="true" duration-ms="655" started-at="2018-02-27T06:53:14Z" finished-at="2018-02-27T06:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.CLeadTC_001@1dc339b]" name="beforeMethod" is-config="true" duration-ms="8646" started-at="2018-02-27T06:53:14Z" finished-at="2018-02-27T06:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="doCreateLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.CLeadTC_001@1dc339b]" name="doCreateLead" duration-ms="10806" started-at="2018-02-27T06:53:23Z" data-provider="fetchData" finished-at="2018-02-27T06:53:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Vaish]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[DTCC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doCreateLead -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.CLeadTC_001@1dc339b]" name="afterMethod" is-config="true" duration-ms="604" started-at="2018-02-27T06:53:34Z" finished-at="2018-02-27T06:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testCases.CLeadTC_001@1dc339b]" name="afterSuite" is-config="true" duration-ms="266" started-at="2018-02-27T06:53:34Z" finished-at="2018-02-27T06:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testCases.CLeadTC_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
